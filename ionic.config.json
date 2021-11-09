@@ -1,0 +1,8 @@
+{
+  "name": "ramApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "58b0515e"
+}
